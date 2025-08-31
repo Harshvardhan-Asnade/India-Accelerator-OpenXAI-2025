@@ -7,7 +7,8 @@
  - Harshvardhan Asnade 
  - Mayank 
  - Om Kumar 
- - Prince Raj 
+ - Prince Raj
+ - Suyash lahure
  
  ## Project Name 
  **QuickPost** 
